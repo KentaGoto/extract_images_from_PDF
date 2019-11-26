@@ -3,13 +3,13 @@ Extract images from PDF.
 
 # USAGE
 ```
-> pdf2images_concurrency.exe <DIR>
+> extract_images_from_PDF.exe <DIR>
 ```
 
 # OPTION
 -h or --help
 ```
-> pdf2images -h
+> extract_images_from_PDF.exe -h
 ```
 
 # REQUIREMENTS
