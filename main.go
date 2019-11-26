@@ -102,7 +102,7 @@ OPTION
 
 REQUIREMENTS
   Windows
-  pdfimages (* Put pdfimages.exe in the same directory as main.go.)
+  pdfimages (* Put pdfimages.exe in the same directory as extract_images_from_PDF.exe.)
 
 AUTHOR
   KentaGoto`)
