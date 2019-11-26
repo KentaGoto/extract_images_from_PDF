@@ -90,7 +90,7 @@ func main() {
 		help := os.Args[1]
 		if help == "-h" || help == "--help" {
 			fmt.Println(`USAGE
-  > pdf2images_concurrency.exe <DIR>
+  > extract_images_from_PDF.exe <DIR>
 
 DESCRIPTION
   Extract images from PDF.
