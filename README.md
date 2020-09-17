@@ -19,3 +19,5 @@ Extract images from PDF.
 ## DESCRIPTION
 Extract images from PDF. Images is saved in a folder with the same name as PDF. It is recursively processed with the directory specified as the first argument as the root.
   
+## License
+MIT
