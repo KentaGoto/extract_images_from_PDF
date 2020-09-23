@@ -21,3 +21,6 @@ Extract images from PDF. Images is saved in a folder with the same name as PDF. 
   
 ## License
 MIT
+
+## Author  
+Kenta Goto
